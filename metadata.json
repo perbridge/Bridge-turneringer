@@ -1,0 +1,5 @@
+{
+  "name": "Bridge Tournament Manager",
+  "description": "An application to create and manage bridge tournaments, register scores from each game, and calculate the overall standings. It supports generating tournament schedules like the Howell Movement and uses QR codes for easy score entry by players.",
+  "requestFramePermissions": []
+}
